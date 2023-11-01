@@ -13,7 +13,7 @@ i separated the program for three section every section has a deffrant cause the
 
   
 
-##the following class diagram explains how the code is structured and how its connected
+## the following class diagram explains how the code is structured and how its connected
 
 
 
