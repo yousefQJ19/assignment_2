@@ -30,8 +30,8 @@ i separated the program for three section every section has a deffrant cause the
 *  AllUsers class to get all users from database
 
 ### The report section
-*ReportContext class built on stratige design pattern 
-*GenerateReports interface to acheve the following has one function and given the database as parameter
+* ReportContext class built on stratige design pattern  to make the  code more flexible and extensible.
+* GenerateReports interface to acheve the following has one function and given the database as parameter
     * First the single responsability to make sure that every report object i make does 1 type of reports
     * Secound the  open close princaple to ensure that the adding of new report is possible with the menemome amount of change in code
 * GenerateDirectorStaffReport to generate a report that shows the staff and managers under each Director  and implements GenerateReport interface
@@ -46,7 +46,7 @@ i separated the program for three section every section has a deffrant cause the
 * Staff class extends the Users class and implement the Staff type of user and has the type (0)
 * Manager class extends the Users class and implements the manager type of user has the type (1)
 * Director class extends the Users class and implements the director type of user has the type (2)
-* 
+
 
   
     
