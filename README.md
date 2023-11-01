@@ -14,7 +14,7 @@ i separated the program for three section every section has a deffrant cause the
   
 
 ## the following class diagram explains how the code is structured and how its connected
-
-
-
 ![ClassMoudule](https://github.com/yousefQJ19/assignment_2/assets/92521652/b55dac6f-22c8-48df-b506-97173d79a2e4)
+
+
+
